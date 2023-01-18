@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: #e0faff;
+  }
+  
+  h1 {
+    color: #950700;h1 
+        background: gray;
+        
+  }
+  
+  a {
+    color: #0088a3;
+  }
+  
+  button {
+    background-color: #0088a3;
+    border-radius: 0.2rem;
+    border-style: none;
+    color: #e0faff;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .my-photo {
+    width: 30%;
+    max-width: 300px;
+    border-radius: 1rem;
+  }
+  
+  .footer {
+    font-size: 0.8rem;
+  }
