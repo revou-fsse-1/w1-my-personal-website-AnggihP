@@ -20,6 +20,7 @@ body {
     background: rgb(4, 4, 4);
     font-family: sans-serif;     
     position:sticky;
+    font-size: 35px;
     margin:0px
   }
    .navigation ul{
@@ -28,6 +29,8 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: #cd3131;
+    border-radius: 0.3rem;
+    border-style: none;
   }
   
   .navigation li {
@@ -42,8 +45,8 @@ body {
     text-decoration: none;
   }
   .navigation li a:hover {
-    background-color: #555;
-    color: white;
+    background-color: #180d5e;
+    color: #e0faff;
   }
   
   .links ul {
@@ -52,19 +55,22 @@ body {
     padding: 0;
     width: 200px;
     background-color: #cd3131;
+    border-radius: 0.4rem;
+    border-style: none;
   }
   
   .links li a {
     display: block;
     color: #000;
     padding: 8px 16px;
-    text-decoration: none;
+    text-decoration: none; 
+   
   }
   
   /* Change the link color on hover */
   .links li a:hover {
-    background-color: #555;
-    color: white;
+    background-color: #180d5e;
+    color: #e0faff;
   }
 
   h2 {
@@ -87,7 +93,10 @@ body {
     border-radius: 1rem;
     right:auto;
   }
-  
-  .footer {
+  .copyright {
     font-size: 0.8rem;
+  }
+  p{
+    color: #180d5e;
+    font-size: 20px;
   }
