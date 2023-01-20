@@ -1,7 +1,5 @@
 # Anggih Website
 
-> Assignment Example for My Personal Website.
-
 This is the simple personal website of **Anggih** made using HTML, CSS, and JavaScript.
 
 ## Links/URLs:
