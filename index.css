@@ -15,20 +15,19 @@ body {
   }
   
   h1 {
+    text-align: center;
     color: #cd3131;
     background: rgb(4, 4, 4);
     font-family: sans-serif;     
     position:sticky;
     margin:0px
   }
-  ul {
+   ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #cd3131;
-    overflow: hidden;
-    
   }
   
   li {
@@ -37,21 +36,15 @@ body {
   
   li a {
     display: block;
-    color: rgb(4, 4, 4);
+    color: rgb(4, 3, 3);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
-  li a:hover:not(.active) {
-    background-color: #111;
-  }
-  li a:hover:not(.active) {
-    background-color: #111;}
-  .active {
-    background-color: #04AA6D;
-  }
-  a {    color: #950700;
+  h2 {
+    color: #cd3131;
+    font-family: sans-serif;     
   }
   
   button {
@@ -67,6 +60,7 @@ body {
     width: 30%;
     max-width: 300px;
     border-radius: 1rem;
+    right:auto;
   }
   
   .footer {
