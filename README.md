@@ -17,9 +17,9 @@ This is the simple personal website of **Anggih** made using HTML, CSS, and Java
 
 ## Screenshots
 
-![Home](images/sshome.jpg)
+![Home](images/sshome.JPG)
 
-![Contact](assets/sscontact.jpg)
+![Contact](images/sscontact.JPG)
 
 ## Colors
 
